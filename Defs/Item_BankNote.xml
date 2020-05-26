@@ -7,7 +7,7 @@
 
 According to the Silver Standard of RimWorld Financial System,the denomination of a banknote is 1 Silver with no exception. Therefore,the banknotes are well accepted by all the traders -- even those primitive tribes -- among RimWorld.The orbital traders and faction bases are probably the most benefited ones,for they can save a considerable amount of transport fees using the light banknotes instead of a lump of silver.They may also hold more banknotes than other traders.
 
-Thanks to what makes them, the polymeric firbes,banknotes are relatively durable and even lighter,making them more convenient to carry. However,the polymeric material is flammable,so make sure that they're in roofed areas and are away from all kinds of heat sources.</description>
+Thanks to what makes them, the polymeric firbes,banknotes are relatively durable and even lighter,making them more convenient to carry.</description>
     <thingClass>ThingWithComps</thingClass>
     <category>Item</category>
     <resourceReadoutPriority>Middle</resourceReadoutPriority>
@@ -37,6 +37,6 @@ Thanks to what makes them, the polymeric firbes,banknotes are relatively durable
       <li Class="CompProperties_Forbiddable" />
     </comps>
     <alwaysHaulable>true</alwaysHaulable>
-    <pathCost>.001</pathCost>
+    <pathCost>0.0</pathCost>
   </ThingDef>
 </Defs>
