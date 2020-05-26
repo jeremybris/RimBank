@@ -6,7 +6,7 @@
   <incompatibleWith />
   <loadBefore />
   <loadAfter />
-  <manifestUri>https://raw.githubusercontent.com/emipa606/RimBank/master/About/Manifest.xml</manifestUri>
-  <downloadUri>https://github.com/emipa606/RimBank/releases</downloadUri>
+  <manifestUri>https://raw.githubusercontent.com/jeremybris/RimBank/master/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/jeremybris/RimBank/releases</downloadUri>
 </Manifest>
 
